@@ -285,4 +285,11 @@ Reliable, stable, and ready for deployment.
 * Tuned for **Middle Eastern climates and conditions**
 
 ---
-
+<section id="team">
+    <h2>Team Member</h2>
+    <p>Ashutosh Ranjan</p>
+<p>Aryan yadav</p>
+<p>Divyansh</p>
+<p>Tusha</p>
+<p>Manali</p>
+<p>Sakshi</p>
